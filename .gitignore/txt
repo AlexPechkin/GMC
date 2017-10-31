@@ -10,3 +10,13 @@ discount is reduced by another 5 percent;
 the ICO token is sold at a discount of 40 - 20 percent, the discount decreases every 5
 days to 20 percent.
 
+
+uint public constant INITIAL_SUPPLY = 2500000000000;
+
+  uint public constant BOUNTY_TOKENS_LIMIT = 125000000000;
+
+  string public constant name = "GoldMineCoin";
+   
+  string public constant symbol = "GMC";
+    
+  uint32 public constant decimals = 6;
